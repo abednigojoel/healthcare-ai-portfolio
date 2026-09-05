@@ -1,4 +1,4 @@
- # Healthcare AI Portfolio
+# Healthcare AI Portfolio
 
 A project-based portfolio documenting my development across healthcare research, data analytics, statistics, programming, artificial intelligence, and health informatics.
 
